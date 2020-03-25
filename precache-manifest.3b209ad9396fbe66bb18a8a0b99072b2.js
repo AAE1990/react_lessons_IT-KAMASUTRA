@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bfeeb86911d2f75603e2c692b754eb9",
+    "revision": "d2df5425d18d138a5556d2540af09819",
     "url": "/react_lessons_IT-KAMASUTRA/index.html"
   },
   {
@@ -8,36 +8,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_lessons_IT-KAMASUTRA/static/css/3.7af5f559.chunk.css"
   },
   {
-    "revision": "96e4ef69e528cda6d924",
+    "revision": "d4b9a948550b478850a6",
     "url": "/react_lessons_IT-KAMASUTRA/static/css/4.4a59f3b7.chunk.css"
   },
   {
-    "revision": "25c0e947c9ca69c4c7dc",
+    "revision": "d5e36a813ca798a681fa",
     "url": "/react_lessons_IT-KAMASUTRA/static/css/main.9cf2bf5e.chunk.css"
   },
   {
-    "revision": "441155df116b74186724",
-    "url": "/react_lessons_IT-KAMASUTRA/static/js/2.f4b495c3.chunk.js"
+    "revision": "2b40cc7d6f4b85a2c80b",
+    "url": "/react_lessons_IT-KAMASUTRA/static/js/2.a6ce289b.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/react_lessons_IT-KAMASUTRA/static/js/2.f4b495c3.chunk.js.LICENSE.txt"
+    "url": "/react_lessons_IT-KAMASUTRA/static/js/2.a6ce289b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "bc26edc454eba8b12d49",
     "url": "/react_lessons_IT-KAMASUTRA/static/js/3.ca7199ce.chunk.js"
   },
   {
-    "revision": "96e4ef69e528cda6d924",
-    "url": "/react_lessons_IT-KAMASUTRA/static/js/4.680ea665.chunk.js"
+    "revision": "d4b9a948550b478850a6",
+    "url": "/react_lessons_IT-KAMASUTRA/static/js/4.c1c361c0.chunk.js"
   },
   {
-    "revision": "25c0e947c9ca69c4c7dc",
-    "url": "/react_lessons_IT-KAMASUTRA/static/js/main.a66ee996.chunk.js"
+    "revision": "d5e36a813ca798a681fa",
+    "url": "/react_lessons_IT-KAMASUTRA/static/js/main.4395a767.chunk.js"
   },
   {
-    "revision": "6223f76c53944436eacf",
-    "url": "/react_lessons_IT-KAMASUTRA/static/js/runtime-main.8f526710.js"
+    "revision": "84b9d68cf17aeb0a9c21",
+    "url": "/react_lessons_IT-KAMASUTRA/static/js/runtime-main.e4404ced.js"
   },
   {
     "revision": "f481902e9dc44e9288ea722b1022c06e",
