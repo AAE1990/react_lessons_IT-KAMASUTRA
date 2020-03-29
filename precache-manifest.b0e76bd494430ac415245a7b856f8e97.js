@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3f9dfeca86d0bbc4fd38f390bde866b",
+    "revision": "7e2e4a132f744503a08ebf256a1c0a9b",
     "url": "/react_lessons_IT-KAMASUTRA/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_lessons_IT-KAMASUTRA/static/css/4.863cc4c6.chunk.css"
   },
   {
-    "revision": "9d2b1a8df1c0f76a95aa",
+    "revision": "74c9cf9bbae2320cf535",
     "url": "/react_lessons_IT-KAMASUTRA/static/css/main.e7374b41.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_lessons_IT-KAMASUTRA/static/js/4.bc331a72.chunk.js"
   },
   {
-    "revision": "9d2b1a8df1c0f76a95aa",
-    "url": "/react_lessons_IT-KAMASUTRA/static/js/main.fedebf65.chunk.js"
+    "revision": "74c9cf9bbae2320cf535",
+    "url": "/react_lessons_IT-KAMASUTRA/static/js/main.b7a57a9f.chunk.js"
   },
   {
     "revision": "b402e48dce6f8926cdd6",
