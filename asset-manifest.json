@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_lessons_IT-KAMASUTRA/static/css/main.e7374b41.chunk.css",
-    "main.js": "/react_lessons_IT-KAMASUTRA/static/js/main.b7a57a9f.chunk.js",
-    "main.js.map": "/react_lessons_IT-KAMASUTRA/static/js/main.b7a57a9f.chunk.js.map",
+    "main.js": "/react_lessons_IT-KAMASUTRA/static/js/main.5ae3d156.chunk.js",
+    "main.js.map": "/react_lessons_IT-KAMASUTRA/static/js/main.5ae3d156.chunk.js.map",
     "runtime-main.js": "/react_lessons_IT-KAMASUTRA/static/js/runtime-main.62775b2e.js",
     "runtime-main.js.map": "/react_lessons_IT-KAMASUTRA/static/js/runtime-main.62775b2e.js.map",
     "static/js/2.88bd1249.chunk.js": "/react_lessons_IT-KAMASUTRA/static/js/2.88bd1249.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.bc331a72.chunk.js": "/react_lessons_IT-KAMASUTRA/static/js/4.bc331a72.chunk.js",
     "static/js/4.bc331a72.chunk.js.map": "/react_lessons_IT-KAMASUTRA/static/js/4.bc331a72.chunk.js.map",
     "index.html": "/react_lessons_IT-KAMASUTRA/index.html",
-    "precache-manifest.b0e76bd494430ac415245a7b856f8e97.js": "/react_lessons_IT-KAMASUTRA/precache-manifest.b0e76bd494430ac415245a7b856f8e97.js",
+    "precache-manifest.a24c04806a82056cdce8b01b7118b6c8.js": "/react_lessons_IT-KAMASUTRA/precache-manifest.a24c04806a82056cdce8b01b7118b6c8.js",
     "service-worker.js": "/react_lessons_IT-KAMASUTRA/service-worker.js",
     "static/css/3.65960ec2.chunk.css.map": "/react_lessons_IT-KAMASUTRA/static/css/3.65960ec2.chunk.css.map",
     "static/css/4.863cc4c6.chunk.css.map": "/react_lessons_IT-KAMASUTRA/static/css/4.863cc4c6.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.62775b2e.js",
     "static/js/2.88bd1249.chunk.js",
     "static/css/main.e7374b41.chunk.css",
-    "static/js/main.b7a57a9f.chunk.js"
+    "static/js/main.5ae3d156.chunk.js"
   ]
 }
